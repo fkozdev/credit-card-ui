@@ -22,7 +22,7 @@ Proje dizinine gidin
 Kodu çalıştırın
 
 ```bash
-  index.htmll 
+  index.html
 ```
 
   
